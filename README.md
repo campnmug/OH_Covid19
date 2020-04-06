@@ -4,7 +4,12 @@ Reporting on OH COVID19 using Ohio Department of Health Data.
 Source https://coronavirus.ohio.gov/wps/portal/gov/covid-19/home/dashboard
 Data Accessed on each day at https://coronavirus.ohio.gov/static/COVIDSummaryData.csv
 
-Report includes 
+Report is processed by SAS transforming observational data to time-series data.
+SAS is also used to display descriptive presentations in tables and graphs. 
+This analysis is not a forecast, but is a snapshot of what is happening at the time of the report.
+
+The PDF report includes 
+
 Summaries of 
 Total Cases, Total Hospitalized, and Total Deaths
 Hospitalized Rates (% of cases), Death Rates (as a % of Cases and of Hospitalized)
